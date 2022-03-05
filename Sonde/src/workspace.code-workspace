@@ -1,0 +1,32 @@
+{
+  "folders": [
+    {
+      "path": "../../../../../../../Applications/MAMP/htdocs/meteo"
+    },
+    {
+      "name": "Sonde",
+      "path": ".."
+    },
+    {
+      "name": "TEST ERAN",
+      "path": "../../TEST ERAN"
+    },
+    {
+      "name": "220208-095250-arduino-blink",
+      "path": "../../220208-095250-arduino-blink"
+    },
+    {
+      "name": "test mars",
+      "path": "../../test mars"
+    },
+    {
+      "name": "arduino tutorial",
+      "path": "../../arduino tutorial"
+    },
+    {
+      "name": "test 2 mars",
+      "path": "../../test 2 mars"
+    }
+  ],
+  "settings": {}
+}
